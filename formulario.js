@@ -1,4 +1,4 @@
-document.querySelector(".contact-form").addEventListener("submit",submitForm);
+document.querySelector(".formulario").addEventListener("submit",submitForm);
 
 function submitForm(e){
   e.preventDefault();
